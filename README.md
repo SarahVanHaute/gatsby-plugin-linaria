@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/gatsby-plugin-linaria)](https://npm.im/gatsby-plugin-linaria)
 [![npm downloads](https://img.shields.io/npm/dm/gatsby-plugin-linaria)](https://npm.im/gatsby-plugin-linaria)
 
-Gatsby plugin for styling with [Linaria](https://linaria.dev/)
+Gatsbyz plugin for styling with [Linaria](https://linaria.dev/)
 
 ## Install
 
